@@ -1,0 +1,6 @@
+product_id,product_name,category,list_price
+P001,Orthopedic Consultation,Consultation,120
+P002,Physiotherapy Session,Therapy,80
+P003,Spine Surgery Package,Surgery,4500
+P004,Knee Replacement Package,Surgery,6500
+P005,Follow-up Consultation,Consultation,60
