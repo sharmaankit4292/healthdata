@@ -1,0 +1,9 @@
+session_id,user_id,session_start_ts,source,medium,campaign
+S001,U001,2024-03-01 09:10:00,google,cpc,ortho_search
+S002,U002,2024-03-01 10:05:00,facebook,paid,brand_campaign
+S003,U003,2024-03-01 11:30:00,direct,none,none
+S004,U004,2024-03-02 08:45:00,google,cpc,surgery_search
+S005,U001,2024-03-02 14:20:00,email,newsletter,march_news
+S006,U005,2024-03-03 16:00:00,google,cpc,physio_search
+S007,U006,2024-03-03 17:10:00,facebook,paid,retargeting
+S008,U007,2024-03-04 09:40:00,direct,none,none
