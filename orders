@@ -1,4 +1,4 @@
 order_id,user_id,order_ts,currency,total_amount,discount_amount,payment_status
 O001,U001,2024-03-01 09:15:00,EUR,120,0,paid
-O002,U004,2024-03-02 08:50:00,EUR,4500,500,paid
-O003,U005,2024-03-03 16:05:00,EUR,80,0,paid
+O002,U004,2024-03-02 08:50:00,EUR,4800,500,paid
+O003,U005,2024-03-03 16:05:00,EUR,85,0,paid
